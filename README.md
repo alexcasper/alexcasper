@@ -2,5 +2,7 @@
 
 #### Assistant Professor at [Northeastern University](http://www.northeastern.edu) 
 
-- AWS Educate Faculty Ambassador & Accredited Academy Instructor
-- Google Cloud Faculty Expert
+- Enthusiastic Learner
+- Capable Communicator
+- [Aspiring Salesforce Learner](https://trailblazer.me/id/alexcasper)
+- Cloud expert
