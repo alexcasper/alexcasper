@@ -3,7 +3,6 @@ output
 pelicanconf_local.py
 
 #Python
-*.py[cod]
 
 # C extensions
 *.so
