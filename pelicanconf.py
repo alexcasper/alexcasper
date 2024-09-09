@@ -2,7 +2,6 @@ AUTHOR = "LSC"
 SITENAME = "LSC Info"
 SITESUBTITLE = "Info Page for LSC"
 TIMEZONE = "Europe/London"
-THEME = "basic"
 # can be useful in development, but set to False when you're ready to publish
 RELATIVE_URLS = False
 REVERSE_CATEGORY_ORDER = True
@@ -35,7 +34,4 @@ READERS = {"html": None}
 # code blocks with line numbers
 PYGMENTS_RST_OPTIONS = {"linenos": "table"}
 
-# foobar will not be used, because it's not in caps. All configuration keys
-# have to be in caps
-foobar = "WHAT"
 
