@@ -6,7 +6,7 @@ import sys
 
 sys.path.append(os.curdir)
 from pelicanconf import *
-IGNORE_FILES = ['readme.md','README.md','**/sidecar/**']
+IGNORE_FILES = ['readme.md','README.md','**/sidecar/content/*']
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 RELATIVE_URLS = False
 FEED_ALL_ATOM = "feeds/all.atom.xml"
