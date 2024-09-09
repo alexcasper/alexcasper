@@ -2,7 +2,7 @@ AUTHOR = "LSC"
 SITENAME = "LSC Info"
 SITESUBTITLE = "Info Page for LSC"
 TIMEZONE = "Europe/London"
-THEME="lsc"
+THEME="sidecar"
 # can be useful in development, but set to False when you're ready to publish
 RELATIVE_URLS = False
 REVERSE_CATEGORY_ORDER = True
