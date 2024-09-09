@@ -37,5 +37,5 @@ PYGMENTS_RST_OPTIONS = {"linenos": "table"}
 
 # foobar will not be used, because it's not in caps. All configuration keys
 # have to be in caps
-foobar = "barbaz"
+foobar = "WHAT"
 
