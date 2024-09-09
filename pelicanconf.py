@@ -1,11 +1,10 @@
 AUTHOR = "LSC"
 SITENAME = "LSC Info"
 SITESUBTITLE = "Info Page for LSC"
-SITEURL = "https://info.londonsocial.club"
 TIMEZONE = "Europe/London"
 THEME = "basic"
 # can be useful in development, but set to False when you're ready to publish
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 REVERSE_CATEGORY_ORDER = True
 LOCALE = "C"
 DEFAULT_PAGINATION = 4
