@@ -27,6 +27,7 @@ EXTRA_PATH_METADATA = {
 STATIC_PATHS = [
     "images",
     "extra",
+    ".theme",
 ]
 
 # there is no other HTML content
