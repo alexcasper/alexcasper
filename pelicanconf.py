@@ -1,6 +1,6 @@
-AUTHOR = "LSC"
-SITENAME = "LSC Info"
-SITESUBTITLE = "Info Page for LSC"
+AUTHOR = "Alex Cline"
+SITENAME = "territory.cc"
+SITESUBTITLE = ""
 TIMEZONE = "Europe/London"
 THEME="sidecar"
 # can be useful in development, but set to False when you're ready to publish
@@ -10,8 +10,7 @@ LOCALE = "C"
 DEFAULT_PAGINATION = 4
 DEFAULT_DATE = (2012, 12, 21, 14, 1, 1)
 LINKS = (
-    ("LSC", "http://reddit.com/r/LondonSocialClub/"),
-    ("Contribute", "https://github.com/londonsocialclub/londonsocialclub.github.io")
+    ("Repo", "https://github.com/alexcasper/alexcasper")
     )
 SOCIAL =  ()
 # global metadata to all the contents
