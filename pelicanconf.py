@@ -1,6 +1,6 @@
 AUTHOR = "Alex Cline"
 SITENAME = "territory.cc"
-SITESUBTITLE = ""
+SITESUBTITLE = "Alex Cline"
 TIMEZONE = "Europe/London"
 THEME="sidecar"
 # can be useful in development, but set to False when you're ready to publish
