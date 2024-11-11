@@ -10,7 +10,7 @@ LOCALE = "C"
 DEFAULT_PAGINATION = 4
 DEFAULT_DATE = (2012, 12, 21, 14, 1, 1)
 LINKS = (
-    ("Repo", "https://github.com/alexcasper/alexcasper")
+    ("Repo", "https://github.com/alexcasper/alexcasper"),
     )
 SOCIAL =  ()
 # global metadata to all the contents
